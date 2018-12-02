@@ -6,6 +6,7 @@ code is a solution to the task given:
 A theater seating chart is implemented as a two-dimensional array of ticket prices, like this:
 
 10 10 10 10 10 10 10 10 10 10 
+
 10 10 10 10 10 10 10 10 10 10 
 10 10 10 10 10 10 10 10 10 10 
 10 10 20 20 20 20 20 20 10 10 
